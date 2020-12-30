@@ -10,3 +10,10 @@ Refinement is a free and open-source Minecraft resource pack that enhances the v
 ### Downloads
 
 You can find downloads for Refinement through the [GitHub releases page](https://github.com/wolex9/refinement/releases).
+
+### Installation
+
+1. In Minecraft, click on "Options", then "Resource Packs".
+2. Choose "Open resource pack folder".
+3. Paste the downloaded file into the opened folder.
+4. Go back to Minecraft, select Refinement and select "Done".
