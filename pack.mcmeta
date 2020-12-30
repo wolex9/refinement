@@ -1,0 +1,23 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": [
+			{
+				"text": "Refinement 0.9",
+				"color": "gold"
+			},
+			{
+				"text": " for ",
+				"color": "gray"
+			},
+			{
+				"text": "1.16.4",
+				"color": "gold"
+			},
+			{
+				"text": "\nby wolex9",
+				"color": "light_purple"
+			}
+		]
+	}
+}

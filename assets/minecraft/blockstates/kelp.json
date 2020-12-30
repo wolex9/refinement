@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"normal": { "model": "block/kelp" },
+		"age=25": { "model": "block/kelp_old" }
+	}
+}
